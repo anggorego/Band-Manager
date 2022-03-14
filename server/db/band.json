@@ -1,0 +1,22 @@
+[
+  {
+    "name":"Linkin Park",
+    "member":5
+  },
+  {
+    "name":"30 seconds to mars",
+    "member":5
+  },
+  {
+    "name":"Blink 182",
+    "member":3
+  },
+  {
+    "name":"Foster The People",
+    "member":4
+  },
+  {
+    "name":"Twety One Pilots",
+    "member":2
+  }
+]
